@@ -1,0 +1,40 @@
+name: Generate Snake
+
+# When to run this workflow
+on:
+  # Schedule: Run every day at midnight UTC
+  schedule:
+    - cron: "0 0 * * *"  # Fixed: was missing one *
+  # Allow manual trigger from GitHub Actions tab
+  workflow_dispatch:
+
+# Define the job
+jobs:
+  generate:
+    # Use Ubuntu as the operating system
+    runs-on: ubuntu-latest
+    # Set maximum runtime to 10 minutes
+    timeout-minutes: 10
+    
+    # List of steps to execute
+    steps:
+      # Step 1: Generate the snake animation
+      - name: Generate snake.svg
+        uses: Platane/snk/svg-only@v2
+        with:
+          # Your GitHub username
+          github_user_name: guruprakash175
+          # Where to save the generated file
+          outputs: dist/snake.svg
+
+      # Step 2: Deploy to GitHub Pages
+      - name: Push snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v2.6.0
+        with:
+          # Branch where the snake.svg will be stored
+          target_branch: output
+          # Folder containing the files to deploy
+          build_dir: dist
+        env:
+          # GitHub token for authentication (automatically provided)
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
