@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif" width="50" />
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif" width="40" />
   <em>Crafting secure digital solutions & exploring the depths of technology</em>
 </div>
 
@@ -18,7 +18,7 @@ const guruPrakash = {
     location: "India 🇮🇳",
     currentFocus: ["Full Stack Development", "Cybersecurity"],
     workingOn: "Building secure and scalable applications",
-    learning: ["Advanced Security Protocols",],
+    learning: ["Advanced Security Protocols"],
     askMeAbout: ["Web Development", "Security", "System Architecture"],
     funFact: "I debug code faster than I debug my life 🐛"
 };
@@ -29,7 +29,9 @@ const guruPrakash = {
 ### 🌟 **Quick Stats**
   
 ![Profile Views](https://komarev.com/ghpvc/?username=guruprakash175&label=Profile%20Views&color=0891b2&style=for-the-badge&abbreviated=true)
-
+![Years Badge](https://badges.pufler.dev/years/guruprakash175?style=for-the-badge&color=0891b2)
+![Repos Badge](https://badges.pufler.dev/repos/guruprakash175?style=for-the-badge&color=0891b2)
+![Monthly Commits](https://badges.pufler.dev/commits/monthly/guruprakash175?style=for-the-badge&color=0891b2)
 
 </div>
 
@@ -46,27 +48,21 @@ const guruPrakash = {
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-
 ### **Frontend Development**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### **Backend & Database**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-
-### **DevOps & Cloud**
+### **Cloud & DevOps**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
 
 ### **Security Tools**
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
@@ -104,8 +100,6 @@ const guruPrakash = {
 ---
 
 ## 🎵 **Currently Vibing To**
-
-
 
 <div align="center">
   
