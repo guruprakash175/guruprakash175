@@ -107,9 +107,25 @@ const guruPrakash = {
 
 ## 🎵 **Currently Vibing To**
 
+
+
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing" />
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=314o3dtqc6wjzjvfdqz353hwinvm&count={count})
+  
+### 🎧 Music That Fuels My Code
+
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+[![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=314o3dtqc6wjzjvfdqz353hwinvm&count=5)](https://open.spotify.com/user/314o3dtqc6wjzjvfdqz353hwinvm)
+
+**🎶 Favorite Genres**: Electronic • Lo-fi • Synthwave • Ambient  
+**🎵 Coding Playlist**: Deep Focus Beats & Instrumental Vibes  
+**🎧 Current Mood**: 🌙 Late Night Development Sessions  
+
+*"The right soundtrack makes debugging feel like composing"* 🎼
+
+### 🎶 Music Platforms
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/314o3dtqc6wjzjvfdqz353hwinvm)
+[![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](#)
+
 </div>
 
 ---
