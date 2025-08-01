@@ -29,9 +29,7 @@ const guruPrakash = {
 ### 🌟 **Quick Stats**
   
 ![Profile Views](https://komarev.com/ghpvc/?username=guruprakash175&label=Profile%20Views&color=0891b2&style=for-the-badge&abbreviated=true)
-![Years Badge](https://badges.pufler.dev/years/guruprakash175?style=for-the-badge&color=0891b2)
-![Repos Badge](https://badges.pufler.dev/repos/guruprakash175?style=for-the-badge&color=0891b2)
-![Monthly Commits](https://badges.pufler.dev/commits/monthly/guruprakash175?style=for-the-badge&color=0891b2)
+
 
 </div>
 
