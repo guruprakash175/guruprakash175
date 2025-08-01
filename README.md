@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif" width="50" />
+  <br><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif" width="50" /></div></br>
   <em>Crafting secure digital solutions & exploring the depths of technology</em>
 </div>
 
