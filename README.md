@@ -109,6 +109,7 @@ const guruPrakash = {
 
 <div align="center">
   <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing" />
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=314o3dtqc6wjzjvfdqz353hwinvm&count={count})
 </div>
 
 ---
@@ -151,7 +152,7 @@ const guruPrakash = {
 ## 🐍 **Contribution Snake**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/guruprakash175/guruprakash175/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/guruprakash175/guruprakash175/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
